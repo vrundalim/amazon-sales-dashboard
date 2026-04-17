@@ -23,4 +23,4 @@ This project analyzes Amazon sales data using Power BI to generate business insi
 
 
 ## 📸 Dashboard Preview
-<img width="2554" height="1188" alt="AmazonDashboard" src="https://github.com/user-attachments/assets/918fc3ff-264f-4e2b-b21a-2ee2033a4f46" />
+<img width="2560" height="1180" alt="AmazonSalesDashboard" src="https://github.com/user-attachments/assets/a5c24d29-c0ba-4118-b5f5-2e470986869a" />
