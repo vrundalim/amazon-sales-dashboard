@@ -15,8 +15,12 @@ This project analyzes Amazon sales data using Power BI to generate business insi
 - Data Cleaning
 - Data Visualization
 
+## Business Insights
+- Asia has the highest slaes contribution.
+- Discounts are highest in a Beauty category.
+- Sales trend is stable with slight seasonal variation
+- Asia region shows a total loss of 0.41M, mainly driven by high discounts across categories. 
+
+
 ## 📸 Dashboard Preview
-<img width="2560" height="1184" alt="dashboardscreenshot" src="https://github.com/user-attachments/assets/e25e0a12-05ec-4db6-8ab9-70affa2fd91b" />
-
-
-
+<img width="2554" height="1188" alt="AmazonDashboard" src="https://github.com/user-attachments/assets/918fc3ff-264f-4e2b-b21a-2ee2033a4f46" />
